@@ -1,0 +1,13 @@
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.exe
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.deps.json
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.json
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.runtimeconfig.dev.json
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\bin\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.AssemblyInfo.cs
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.dll
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.pdb
+C:\Users\Osman\Desktop\VisualStudioKodlamalar\OOP_Ilkeleri\OOP_Ilkeleri\obj\Debug\netcoreapp3.1\OOP_Ilkeleri.genruntimeconfig.cache
